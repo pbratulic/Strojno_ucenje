@@ -1,0 +1,9 @@
+Dio projektnog zadatka koji se sastojao od provedbe algoritama na našim podacima, tj. naš kod, radili smo u programskom jeziku Python u Jupyter Notebook-u koristeæi Anaconda okruženje te Google Colab okruženje. U bilježnici postoje upute na dijelovima kod kojih se razlikuje korištenje bilježnice u Anacondi i Google Colabu.
+Anaconda - verzija 1.9.7, Python 3.6.
+Biblioteke koje smo koristili:
+biblioteka	verzija
+pandas	0.24.2
+numpy	1.16.4
+matplotlib	3.0.3	
+seaborn	0.9.0
+sklearn 0.21.2
